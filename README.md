@@ -61,7 +61,7 @@ A real-time PySpark pipeline that ingests streaming data and applies a machine l
 
 ## 📜 Certifications
 
-- **Associate Data Engineer** — DataCamp (2026)
+- [**Associate Data Engineer** — DataCamp (2026)](https://www.datacamp.com/certificate/DEA0017475188313)
 
 ---
 
