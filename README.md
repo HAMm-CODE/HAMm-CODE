@@ -15,9 +15,9 @@
 I'm an early-career **data engineer** based in **Tampere, Finland**, finishing an **MSc in Computer Science & Electrical Engineering** at **Tampere University**. I like the unglamorous part of data work: building pipelines that are correct, observable, and don't fall over at 3 a.m.
 
 - 🔭 Currently building **batch and streaming pipelines** with Spark, Airflow, and Delta Lake
-- 🌱 Growing into **Scala, Snowflake, and MLOps**
-- 🎓 **DataCamp Associate Data Engineer** certified (2026) + **DataTalksClub DE Zoomcamp**
-- 💬 Ask me about **PySpark, ETL/ELT design, workflow orchestration, or the Delta vs. Parquet vs. Iceberg trade-offs**
+- 🌱 Growing into **PySpark, Databricks and Airflow**
+- 🎓 **DataCamp Associate Data Engineer** certified (2026) +
+- 💬 Ask me about **PySpark, ETL/ELT design, workflow orchestration, or the Delta vs. Parquet**
 - 📫 Open to **junior / associate data engineering roles** in Finland
 
 ---
