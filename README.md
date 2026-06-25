@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Anas</h1>
+<h1 align="center">👋 Hi, I'm Hamza</h1>
 <h3 align="center">Data Engineer · Building reliable pipelines that turn raw data into something useful</h3>
 
 <p align="center">
@@ -76,7 +76,7 @@ A real-time PySpark pipeline that ingests streaming data and applies a machine l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMm-CODE&show_icons=true&theme=default&hide_border=true" alt="Anas's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMm-CODE&show_icons=true&theme=default&hide_border=true" alt="Hamza's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMm-CODE&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
