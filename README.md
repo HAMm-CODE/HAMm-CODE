@@ -48,21 +48,20 @@ I'm an early-career **data engineer** based in **Tampere, Finland**, finishing a
 ## 🚀 Featured Projects
 
 ### Delta Data Formats Benchmarking
-Hands-on comparison of Delta Lake against other storage formats — measuring read/write performance and query behaviour across realistic workloads.
-**Tech:** PySpark · Delta Lake · Databricks
-🔗 <!-- TODO: link to repo -->
+Hands-on comparison of Delta Lake against other storage formats — measuring read/write performance and query behaviour across realistic workloads.  
+**Tech:** PySpark · Delta Lake · Databricks  
+🔗 [View project repository](https://github.com/HAMm-CODE/Data-Intensive-Programming/blob/main/Data_formats/README.md)
 
 ### Structured Streaming + ML Pipeline
 A real-time PySpark pipeline that ingests streaming data and applies a machine learning model on the fly.
 **Tech:** PySpark · Spark Structured Streaming · Python
-🔗 <!-- TODO: link to repo -->
+🔗 [View project repository](https://github.com/HAMm-CODE/Data-Intensive-Programming/blob/main/Streaming_data/README.md)
 
 ---
 
 ## 📜 Certifications
 
 - **Associate Data Engineer** — DataCamp (2026)
-- **Data Engineering Zoomcamp** — DataTalksClub
 
 ---
 
