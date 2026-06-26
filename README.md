@@ -1,84 +1,87 @@
-<h2 align="center">👋 Hi, I'm Hamza</h2>
-<h3 align="center">Data Engineer · Building reliable pipelines that turn raw data into something useful</h3>
+<h2 align="center">Hi, I'm Hamza 👋</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamzasentongo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sentongohamza256@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <b>Early-career Data Engineer</b><br>
+  Building reliable pipelines with Python, SQL, Spark, and modern data tools.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzasentongo">LinkedIn</a> ·
+  <a href="mailto:sentongohamza256@gmail.com">Email</a> ·
+  <a href="https://github.com/HAMm-CODE">GitHub</a>
 </p>
 
 ---
 
-I'm an early-career **data engineer** based in **Tampere, Finland**, finishing an **MSc in Computer Science & Electrical Engineering** at **Tampere University**. I like the unglamorous part of data work: building pipelines that are correct, observable, and don't fall over at 3 a.m.
+## About
 
-- 🔭 Currently building **batch and streaming pipelines** with Spark, Airflow, and Delta Lake
-- 🌱 Growing into **PySpark, Databricks and Airflow**
-- 🎓 DataCamp Associate Data Engineer certified (2026)
-- 💬 Ask me about **PySpark, ETL/ELT design, workflow orchestration, or the Delta vs. Parquet**
-- 📫 Open to **junior / associate data engineering roles** in Finland
+I'm an early-career **Data Engineer** based in **Tampere, Finland**, currently completing an **MSc in Computer Science & Electrical Engineering** at **Tampere University**.
 
----
+I enjoy building data pipelines that are clean, reliable, and useful — from raw data ingestion to transformation, storage, and analysis.
 
-## 🛠️ Tech Stack
+Currently focused on:
 
-**Languages & Querying**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Data & Pipelines**
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat&logo=databricks&logoColor=white)
-
-**Cloud & Platforms**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- Batch and streaming pipelines with **PySpark**
+- Data lake formats such as **Delta Lake** and **Parquet**
+- Workflow orchestration with **Airflow**
+- Databricks-based data engineering projects
+- Writing cleaner, more testable data code
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### Delta Data Formats Benchmarking
-Hands-on comparison of Delta Lake against other storage formats — measuring read/write performance and query behaviour across realistic workloads.  
-**Tech:** PySpark · Delta Lake · Databricks  
-🔗 [View project repository](https://github.com/HAMm-CODE/Data-Intensive-Programming/blob/main/Data_formats/README.md)
+**Languages:** Python · SQL · Java  
+**Data Engineering:** PySpark · Spark Structured Streaming · ETL/ELT · Delta Lake · Parquet · Airflow · dbt  
+**Platforms & Tools:** Databricks · Azure Blob Storage · Docker · Git · PostgreSQL · MySQL  
 
-### Structured Streaming + ML Pipeline
-A real-time PySpark pipeline that ingests streaming data and applies a machine learning model on the fly.
+---
+
+## Featured Projects
+
+### [Delta Data Formats Benchmarking](https://github.com/HAMm-CODE/Data-Intensive-Programming/blob/main/Data_formats/README.md)
+
+Benchmarked CSV, Parquet, and Delta Lake using PySpark and Databricks, comparing storage format behavior, query performance, and schema evolution.
+
+**Tech:** PySpark · Delta Lake · Databricks · Azure Blob Storage
+
+---
+
+### [Structured Streaming + ML Pipeline](https://github.com/HAMm-CODE/Data-Intensive-Programming/blob/main/Streaming_data/README.md)
+
+Built a PySpark pipeline combining structured streaming with machine learning to process and analyze retail sales data.
+
 **Tech:** PySpark · Spark Structured Streaming · Python
-🔗 [View project repository](https://github.com/HAMm-CODE/Data-Intensive-Programming/blob/main/Streaming_data/README.md)
 
 ---
 
-## 📜 Certifications
+### Web Scraping ETL Project
 
-- [**Associate Data Engineer** — DataCamp (2026)](https://www.datacamp.com/certificate/DEA0017475188313)
+Built a small ETL pipeline that extracts bank market-cap data from the web, transforms values into multiple currencies, and loads the result into CSV and SQLite.
 
----
-
-## 🎓 Education
-
-- **MSc, Computer Science & Electrical Engineering** — Tampere University, Finland
-- **BSc, Information Systems & Technology** — Makerere University
+**Tech:** Python · BeautifulSoup · Pandas · SQLite
 
 ---
 
-## 📊 GitHub Stats
+## Certification
+
+[**Associate Data Engineer** — DataCamp, 2026](https://www.datacamp.com/certificate/DEA0017475188313)
+
+---
+
+## Education
+
+**MSc, Computer Science & Electrical Engineering**  
+Tampere University, Finland
+
+**BSc, Information Systems & Technology**  
+Makerere University
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMm-CODE&show_icons=true&theme=default&hide_border=true" alt="Hamza's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMm-CODE&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HAMm-CODE&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMm-CODE&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMm-CODE&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160"/>
 </p>
