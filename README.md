@@ -79,9 +79,4 @@ Makerere University
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMm-CODE&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMm-CODE&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160"/>
-</p>
